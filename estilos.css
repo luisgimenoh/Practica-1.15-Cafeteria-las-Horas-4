@@ -31,3 +31,13 @@ h2.titulo{
 li.negro{
     color: black;
 }
+col.fondo{
+    background-color: lightsalmon;
+}
+td.fondo_concreto{
+    background-color: #f5e3cd;
+}
+table{
+    color: maroon;
+    position: center;
+}
